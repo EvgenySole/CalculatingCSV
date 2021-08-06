@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  Calc.cpp
+d:\vm\calc\calc\calc.cpp(22): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vm\calc\calc\calc.cpp(27): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vm\calc\calc\calc.cpp(72): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vm\calc\calc\calc.cpp(153): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vm\calc\calc\calc.cpp(159): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vm\calc\calc\calc.cpp(177): warning C4018: <: несоответствие типов со знаком и без знака
+  Calc.vcxproj -> D:\VM\Calc\Debug\Calc.exe
+  Calc.vcxproj -> D:\VM\Calc\Debug\Calc.pdb (Partial PDB)
